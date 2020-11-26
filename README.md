@@ -18,7 +18,7 @@ I'm Alvin Reynickha and i'm from Indonesia. I'm currently working on some freela
 
 ## My skills:
 
-<img src="https://camo.githubusercontent.com/c567bc8fea35a350406f3ad80e2ec6dd76dea5f756187908f35322bbbc8bc77c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702532302d2532333536334437432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"><img src="https://user-images.githubusercontent.com/49778894/100304738-fdf08200-2fd1-11eb-945f-2ca83864a3ac.png">
+<img src="https://user-images.githubusercontent.com/49778894/100332062-7f143d00-3003-11eb-9c29-a3487039b1ab.jpg"><img src="https://user-images.githubusercontent.com/49778894/100304738-fdf08200-2fd1-11eb-945f-2ca83864a3ac.png">
 <img src="https://user-images.githubusercontent.com/49778894/100304971-925ae480-2fd2-11eb-95c3-fd47e1db9023.png">
 <img src="https://user-images.githubusercontent.com/49778894/100305192-1c0ab200-2fd3-11eb-9bf1-4784530d0b50.jpeg">
 <img src="https://user-images.githubusercontent.com/49778894/100305536-d7334b00-2fd3-11eb-90aa-debf7127ff68.png">
